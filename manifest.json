@@ -1,7 +1,7 @@
 {
   "name": "Thời khóa biểu",
   "short_name": "TKB",
-  "description": "Ứng dụng xem thời khóa biểu Trường THLT",
+  "description": "Kho lưu trữ ứng dụng cá nhân",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
